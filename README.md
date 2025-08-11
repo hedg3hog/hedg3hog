@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hedg3hog
 
-- 👀 I’m interested in IT security 🔐, threat intelligence 🕵️‍♂️,  python 🐍 and currently replacing LaTeX 📜✒️ with typst 📄✨ (where possible).
+- 👀 I’m interested in IT security 🔐, threat intelligence 🕵️‍♂️,  python 🐍 and currently replacing [LaTeX](https://github.com/latex3/latex2e) 📜✒️ with [typst](https://github.com/typst/typst) 📄✨ (where possible).
  
 
  <!---
