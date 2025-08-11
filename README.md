@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hedg3hog
 
-- 👀 I’m interested in cybersecurity, digital forensics, python and much more...
+- 👀 I’m interested in IT security 🔐, threat intelligence 🕵️‍♂️,  python 🐍 and currently replacing LaTeX 📜✒️ with typst 📄✨ (where possible).
  
-[E-Mail PGP-Key](https://gist.github.com/hedg3hog/d6cf50e29be83774e6d57e3e798d5efb)
+
  <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
